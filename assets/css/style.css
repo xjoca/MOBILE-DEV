@@ -47,9 +47,9 @@ p {
 ul {
     list-style-type: none;
     padding: 0;
-    display: flex; /* Alteração para flexbox */
-    justify-content: center; /* Centraliza os itens horizontalmente */
-    width: 100%; /* Para ocupar toda a largura disponível */
+    display: flex; 
+    justify-content: center; 
+    width: 100%; 
 }
 
 ul li {
